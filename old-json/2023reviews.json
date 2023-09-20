@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Juan",
+    "img": "./images/reviews/penguin.gif",
+    "review": "10/10, go buy my mixtape"
+  },
+  {
+    "name": "Onur",
+    "img" : "./images/reviews/charter.gif",
+    "review" : "10/10 website, i love this thanks for unblocking it"
+  },
+  {
+    "name" : "Christian",
+    "img" : "./images/reviews/penguin.gif",
+    "review" : "10/10 christian is daddy fr"
+  },
+  {
+    "name" : "WhoIsEv?",
+    "img" : "./images/reviews/caughtin4k.png",
+    "review" : "wait why am i here, i thought i was the creator-"
+  },
+  {
+    "name" : "Jeremiah",
+    "img" : "./images/reviews/charter.gif",
+    "review" : "0/10 website this is so garbage why did u unblock it"
+  },
+  {
+    "name" : "Jonah",
+    "img" : "./images/reviews/penguin.gif",
+    "review" : "0/10 why am i here"
+  },
+  {
+    "name" : "Jorden",
+    "img" : "./images/reviews/charter.gif",
+    "review" : "10/10 website, i love how you can play games with no ads cuz i hate seeing kfc ads no offense dude"
+  },
+  {
+    "name" : "Nicksen",
+    "img" : "./images/reviews/penguin.gif",
+    "review" : "3/10 tbg95 is better"
+  },
+  {
+    "name" : "Jah",
+    "img" : "./images/reviews/charter.gif",
+    "review" : "dude i saw your story be quiet bro"
+  }
+]

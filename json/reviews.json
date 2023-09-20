@@ -1,0 +1,17 @@
+[
+  {
+    "name": "WhoIsEv?",
+    "img": "./images/reviews/penguin.gif",
+    "review": "forget the past."
+  },
+  {
+    "name": "Pharell",
+    "img": "./images/reviews/charter.gif",
+    "review": "yo can u turn on the server rq"
+  },
+  {
+    "name": "SiemonDemon",
+    "img": "./images/reviews/malek.jpg",
+    "review": "im eduard's fav"
+  }
+]

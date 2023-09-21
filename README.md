@@ -1,7 +1,7 @@
 # 3kh0 Assets ("relived, assets.")
 
-**All credits goes to @3kh0! He has made the 3kh0 Assets and I just uploaded them to this repo for my website, "3kh0, relived."
-Please check out @3kh0's profile! He has amazing stuff there and is one of my favorites for making this BEAUTIFUL website. ♥**
+**All credits goes to [@3kh0](https://github.com/3kh0)! He has made the 3kh0 Assets and I just uploaded them to this repo for my website, "3kh0, relived."
+Please check out [@3kh0](https://github.com/3kh0)'s profile! He has amazing stuff there and is one of my favorites for making this BEAUTIFUL website. ♥**
 
 3kh0 Assets Stats:
 ![Github repo file count](https://img.shields.io/github/directory-file-count/3kh0/3kh0-Assets?label=Total%20file%20count)

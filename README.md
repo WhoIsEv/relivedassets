@@ -5,7 +5,7 @@ Please check out [@3kh0](https://github.com/3kh0)'s profile! He has amazing stuf
 
 3kh0 Assets Stats:
 ![Github repo file count](https://img.shields.io/github/directory-file-count/3kh0/3kh0-Assets?label=Total%20file%20count)
-![Github repo size](https://img.shields.io/github/directory-file-count/3kh0/3kh0-Assets?label=Total%20size)
+![Github repo size](https://img.shields.io/github/repo-size/3kh0/3kh0-Assets?label=Total%20size)
 
 "relived, assets." Stats:
 ![GitHub repo file count](https://img.shields.io/github/directory-file-count/whoisev/relivedassets?label=Total%20file%20count)

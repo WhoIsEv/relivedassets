@@ -1,6 +1,6 @@
 # 3kh0 Assets ("relived, assets.")
 
-**All credits goes to [@3kh0](https://github.com/3kh0)! He has made the 3kh0 Assets and I just uploaded them to this repo for my website, "3kh0, relived."
+**All credits goes to [@3kh0](https://github.com/3kh0)! He has made the 3kh0 Assets and I just uploaded them to this repo for my website, ["3kh0, relived."](https://github.com/WhoIsEv/whoisev.github.io)
 Please check out [@3kh0](https://github.com/3kh0)'s profile! He has amazing stuff there and is one of my favorites for making this BEAUTIFUL website. ♥**
 
 3kh0 Assets Stats:
@@ -15,9 +15,9 @@ All games will be hosted here due to the amount of files. It overloads GitHub so
 
 **Skidding this gets you no gain, so {    } off.**
 
-If you want to check out the site, head to [https://3kh0.github.io](3kh0.github.io)
+If you want to check out 3kh0's site, head to [https://3kh0.net](https://3kh0.net)
 
-The main repo can be found at [https://github.com/3kh0/3kh0.github.io](https://github.com/3kh0/3kh0.github.io)
+The main repo for the original 3kh0 website can be found at [https://github.com/3kh0/website-v4](https://github.com/3kh0/website-v4/)
 
 ## Usage (using this for your own site)
 

@@ -1,88 +1,197 @@
-body {
-  font-size: 12px;
-  background: #fff !important;
-  border-style: none;
-  font-family: helvetica, arial, sans-serif;
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Arial, sans-serif;
 }
+
+body {
+  background-color: #f7f7f7;
+  font-size: 16px;
+}
+
+h1 {
+  font-size: 3rem;
+  margin: 2rem 0;
+  text-align: center;
+}
+
+h2 {
+  font-size: 1.5rem;
+  margin: 2rem 0;
+  text-align: center;
+}
+
+a {
+  color: #0066cc;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 2rem;
+}
+
 .sound {
-  border-style: outset;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
   width: 100px;
   height: 170px;
+  background-color: #fff;
+  border-radius: 8px;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.3);
+  transition: transform 0.2s ease-in-out;
 }
-.download {
-  cursor: pointer;
+
+.sound:hover {
+  transform: translateY(-5px);
 }
+
+.sound:focus-within {
+  outline: none;
+  transform: translateY(-5px);
+}
+
+.small-button {
+  width: 100px;
+  height: 89px;
+  border: none;
+  background-color: #e7e7e7;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath d='M8 5v14l11-7z'/%3E%3C/svg%3E");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 48px;
+  border-radius: 8px;
+  transition: background-color 0.2s ease-in-out;
+}
+
+.sound:hover .small-button {
+  background-color: #ccc;
+}
+
+.small-button:focus {
+  outline: none;
+}
+
 .name {
   text-align: center;
-  font-size: 15px;
+  font-size: 14px;
+  font-weight: bold;
+  margin: 1rem 0 0;
 }
-#instants_container {
-  margin: 30px auto 0;
+
+.download {
+  display: block;
   text-align: center;
-  border-style: none;
+  font-size: 12px;
+  color: #0066cc;
+  text-decoration: none;
+  margin: 0.5rem 0;
+  transition: color 0.2s ease-in-out;
 }
-.instant {
-  position: relative;
-  vertical-align: top;
-  width: 94px;
-  border-style: none;
-  text-align: center;
-  display: inline-block;
-  margin-bottom: 30px;
-  margin-right: 5px;
-  margin-left: 5px;
-  word-wrap: break-word;
+
+.download:hover {
+  color: #004499;
 }
-.small-button {
-  width: 94px;
-  height: 89px;
-  margin-bottom: 0px;
-  margin-right: 0px;
-  margin-left: 3px;
-  margin-top: 0px;
-  border-style: none;
-  position: absolute;
-  background: url(../img/button.png) no-repeat;
-  cursor: pointer;
-}
-.small-button:active {
-  background: url(../img/button-pressed.png) no-repeat;
-  cursor: progress;
-}
-.small-button-background {
-  width: 86px;
-  height: 84px;
-  margin-top: 3px;
-  margin-left: 6px;
-  position: absolute;
-}
-.small-button-shadow {
-  width: 94px;
-  height: 89px;
-  margin-bottom: 5px;
-  background: url(../img/button-shadow.png) no-repeat;
-}
-.circle {
-  border-radius: 50%;
-}
+
 .flex-container {
   display: flex;
   flex-wrap: wrap;
-  background-color: white;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+  padding: 20px;
+  background-color: #f5f5f5;
+  border-radius: 10px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
 }
-.flex-container > div {
-  padding: 5px;
-}
-div.control {
+
+.control {
   position: fixed;
   bottom: 0;
   right: 0;
-  width: auto;
-  padding: 3px;
-  border: 3px solid #000;
-  background: #ffffff;
-  z-index: 100;
+  margin: 1rem;
+  padding: 0.5rem;
+  background-color: #fff;
+  border-radius: 8px;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.3);
+  z-index: 10;
 }
-.woah {
+
+.control button {
+  margin-left: 0.5rem;
+  font-size: 16px;
+  color: #0066cc;
+  border: none;
+  background-color: transparent;
   cursor: pointer;
+  transition: color 0.2s ease-in-out;
+}
+
+.control button:hover {
+  color: #004499;
+}
+
+#footer {
+  bottom: 0;
+  width: 100%;
+  padding: 20px 0;
+  text-align: center;
+  font-size: 14px;
+  color: #262626;
+  background-color: #fff;
+  box-shadow: 0 -2px 5px rgba(0, 0, 0, 0.1);
+}
+
+@media only screen and (max-width: 768px) {
+  .container {
+      padding: 1rem;
+  }
+
+  h1 {
+      font-size: 2rem;
+      margin: 1rem 0;
+  }
+
+  h2 {
+      font-size: 1.25rem;
+      margin: 1rem 0;
+  }
+
+  .sound {
+      width: 80px;
+      height: 136px;
+  }
+
+  .small-button {
+      width: 80px;
+      height: 76px;
+      background-size: 40px;
+      border-radius: 6px;
+  }
+
+  .name {
+      font-size: 12px;
+  }
+
+  .download {
+      font-size: 10px;
+      margin: 0.25rem 0;
+  }
+
+  .control {
+      margin: 0.5rem;
+      padding: 0.25rem;
+  }
+
+  .control button {
+      font-size: 14px;
+  }
 }

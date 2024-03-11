@@ -46,8 +46,8 @@ Create a pull request on the [main github repo](https://github.com/whoisev/whois
 
 Join these epic people who have helped make the best unblocked games website!
 
-<a href="https://github.com/3kh0/3kh0-Assets/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=3kh0/3kh0-Assets" />
+<a href="https://github.com/whoisev/relivedassets/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=whoisev/relivedassets" />
 </a>
 
 ## Codebase

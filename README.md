@@ -17,7 +17,7 @@ All games will be hosted here due to the amount of files. It overloads GitHub so
 
 If you want to check out 3kh0's site, head to [https://3kh0.net](https://3kh0.net)
 
-The main repo for the original 3kh0 website can be found at [https://github.com/3kh0/website-v4](https://github.com/3kh0/website-v4/)
+The main repo for the original 3kh0 website is gone unfortunately.
 
 ## Usage (using this for your own site)
 

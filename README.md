@@ -26,11 +26,11 @@ If you want to use these for your own projects, I would just like to ask a few t
 
 ### Embedding
 
-The base URL for the CDN is https://raw.githack.com/3kh0/3kh0-assets/main/
+The base URL for the CDN is https://raw.githack.com/whoisev/relivedassets/main/
 
 SO pretty much just add the folder of the game you want, say 2048, the url would be
 ```
-https://raw.githack.com/3kh0/3kh0-assets/main/2048/index.html
+https://raw.githack.com/whoisev/relivedassets/main/2048/index.html
 ```
 And you would replace `2048` with the title of the folder, this is the best method since the game would be up-to-date always, in case of something like a update or something breaks.
 
@@ -46,7 +46,7 @@ If you are gonna do this, you are gonna do it yourself. The amount of files made
 Create a pull request here!
 
 ***Contributing a change to the UI***
-Create a pull request on the [main github repo](https://github.com/3kh0/3kh0.github.io)!
+Create a pull request on the [main github repo](https://github.com/whoisev/whoisev.github.io)!
 
 Join these epic people who have helped make the best unblocked games website!
 
